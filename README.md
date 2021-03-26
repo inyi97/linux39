@@ -1,1 +1,2 @@
-echo # linux39
+ linux39 
+ linux39 v2 
